@@ -1,4 +1,4 @@
-# nqueens_stack
+# N Queens - Stack
 
 Uses a stack data structure to solve the N Queens Problem
 
